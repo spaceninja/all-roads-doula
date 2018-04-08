@@ -1,0 +1,23 @@
+{
+  "name": "all-roads-doula",
+  "version": "1.0.0",
+  "description": "All Roads Doula Care provides postpartum doula services in Portland, OR. If you're interested, please contact [Annie Vandehey](mailto:annie@allroadsdoula.com).",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/spaceninja/all-roads-doula.git"
+  },
+  "author": "Scott Vandehey",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/spaceninja/all-roads-doula/issues"
+  },
+  "homepage": "https://github.com/spaceninja/all-roads-doula#readme",
+  "devDependencies": {
+    "stylelint": "^9.2.0",
+    "stylelint-config-saymedia": "github:saymedia/stylelint-config-saymedia"
+  }
+}
