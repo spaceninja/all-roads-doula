@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/spaceninja/all-roads-doula#readme",
   "devDependencies": {
-    "stylelint": "^9.2.0",
+    "stylelint": "^9.9.0",
     "stylelint-config-saymedia": "github:saymedia/stylelint-config-saymedia"
   }
 }
